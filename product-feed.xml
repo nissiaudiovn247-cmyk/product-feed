@@ -1,57 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:g="http://base.google.com/ns/1.0">
-  <channel>
+<item>
+  <g:id>sony-c800g</g:id>
+  <g:title>Sony C-800G Studio Microphone – Huyền thoại phòng thu cao cấp</g:title>
 
-    <title>NISSI AUDIO – Product Feed</title>
-    <link>https://nissiaudio.com</link>
-    <description>Nguồn cấp sản phẩm Google Merchant Center</description>
+  <g:description>
+  Microphone Sony C-800G – dòng micro thu âm cao cấp, được các phòng thu hàng đầu thế giới săn lùng
+  nhờ chất âm trong trẻo, sang trọng và chi tiết bậc nhất.
+  Lý tưởng cho Vocal, Ballad, R&amp;B, Pop.
+  Thông tin: CÔNG TY TNHH NISSI AUDIO – Hotline: 0846840840 – 0908401689.
+  </g:description>
 
-    <!-- ===== SẢN PHẨM 1 ===== -->
-    <item>
-      <g:id>sony-c800g</g:id>
+  <g:link>https://nissiaudio.com/micro-sony-c800g-nguon-ac-mc800g</g:link>
+  <g:image_link>https://nissiaudio.com/upload/product/800g-1-1297.jpg</g:image_link>
 
-      <g:title>Sony C-800G Studio Microphone – Huyền thoại phòng thu cao cấp</g:title>
-
-      <g:description>
-        Microphone Sony C-800G – dòng micro thu âm cao cấp, được các phòng thu hàng đầu thế giới săn lùng
-        nhờ chất âm trong trẻo, sang trọng và chi tiết bậc nhất.
-        Lý tưởng cho Vocal, Ballad, R&B, Pop.
-        Thông tin: CÔNG TY TNHH NISSI AUDIO – Hotline: 0846840840 – 0908401689.
-      </g:description>
-
-      <g:link>https://nissiaudio.com/micro-sony-c800g-nguon-ac-mc800g</g:link>
-
-      <g:image_link>https://nissiaudio.com/upload/product/800g-1-1297.jpg</g:image_link>
-
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>245000000 VND</g:price>
-      <g:brand>SONY</g:brand>
-    </item>
-
-    <!-- ===== SẢN PHẨM 2 (VÍ DỤ THÊM) ===== -->
-    <item>
-      <g:id>sony-c800g-2</g:id>
-
-      <g:title>Sony C-800G Studio Microphone – Phiên bản nhập khẩu chính hãng</g:title>
-
-      <g:description>
-        Sony C-800G phiên bản chính hãng, đầy đủ nguồn AC, phụ kiện tiêu chuẩn.
-        Microphone thu âm cao cấp cho studio chuyên nghiệp.
-        Phù hợp thu vocal cao cấp, phòng thu lớn.
-        Thông tin: CÔNG TY TNHH NISSI AUDIO – Hotline: 0846840840 – 0908401689.
-      </g:description>
-
-      <g:link>https://nissiaudio.com/micro-sony-c800g-nguon-ac-mc800g</g:link>
-
-      <g:image_link>https://nissiaudio.com/upload/product/800g-1-1297.jpg</g:image_link>
-
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>245000000 VND</g:price>
-      <g:brand>SONY</g:brand>
-    </item>
-
-  </channel>
-</rss>
+  <g:availability>in stock</g:availability>
+  <g:condition>new</g:condition>
+  <g:price>245000000.00 VND</g:price>
+  <g:brand>SONY</g:brand>
+</item>
