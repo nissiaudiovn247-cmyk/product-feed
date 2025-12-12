@@ -1,12 +1,11 @@
-<item>
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
      xmlns:g="http://base.google.com/ns/1.0">
-  <channel>
 
-    <title>Nissi Audio Product Feed</title>
+  <channel>
+    <title>Nissi Audio – Product Feed</title>
     <link>https://nissiaudio.com</link>
-    <description>Danh sách sản phẩm Nissi Audio</description>
+    <description>Danh sách sản phẩm thiết bị âm thanh Nissi Audio</description>
 
     <item>
       <g:id>sony-c800g</g:id>
@@ -24,7 +23,13 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:price>245000000.00 VND</g:price>
+
       <g:brand>SONY</g:brand>
+      <g:mpn>C-800G</g:mpn>
+
+      <g:google_product_category>
+      Electronics &gt; Audio &gt; Microphones
+      </g:google_product_category>
     </item>
 
   </channel>
