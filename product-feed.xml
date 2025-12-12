@@ -1,0 +1,37 @@
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>Nissiaudio Product Feed</title>
+    <link>https://nissiaudio.com</link>
+    <description>Dữ liệu sản phẩm Nissiaudio</description>
+
+    <item>
+      <g:id>manley-voxbox</g:id>
+      <g:title>Manley VOXBOX Tube Channel Strip</g:title>
+
+      <g:description>
+        TỔNG QUÁT: VOXBOX® kết hợp Preamp Manley Mono Mic huyền thoại, 
+        ELOP tái sinh như một bộ nén tỷ lệ thấp hơn, MID EQ thổi ra như một 
+        PEAK-DIP-PEAK EQ đầy đủ và một DeEsser với một bộ giới hạn ELOP thứ hai ở cuối. 
+        Sử dụng Đầu vào Trực tiếp, những người chơi bass thường thắc mắc tại sao 
+        nó không được đặt tên là BASSBOX.
+      </g:description>
+
+      <g:link>https://nissiaudio.com/manley-voxbox-tube-channel-strip</g:link>
+
+      <g:image_link>https://nissiaudio.com/upload/product/manley-voxbox.jpg</g:image_link>
+
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+
+      <!-- Giá khuyến mãi -->
+      <g:price>143000000 VND</g:price>
+      <g:sale_price>128900000 VND</g:sale_price>
+
+      <!-- Thời gian tri ân 7 ngày -->
+      <g:sale_price_effective_date>2025-12-12T00:00:00+07:00/2025-12-19T23:59:59+07:00</g:sale_price_effective_date>
+
+      <g:brand>Manley</g:brand>
+    </item>
+
+  </channel>
+</rss>
