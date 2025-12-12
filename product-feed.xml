@@ -11,8 +11,6 @@
     <g:link>https://nissiaudio.com/rohiauder-rh-202-microphone</g:link>
     <g:image_link>https://nissiaudio.com/upload/product/2025-01-15091437-2459.jpg</g:image_link>
 
-    <!-- VIDEO SẢN PHẨM (DẠNG CHUẨN GOOGLE) -->
-    <g:video_link>https://www.youtube.com/watch?v=_E0liSC_7bk</g:video_link>
 
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -20,3 +18,6 @@
     <g:price>6000000 VND</g:price>
     <g:brand>Rohiauder</g:brand>
 </item>
+
+</channel>
+</rss>
