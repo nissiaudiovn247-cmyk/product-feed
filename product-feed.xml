@@ -1,33 +1,44 @@
-<item>
-    <g:id>neumann-tlm-49</g:id>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>NISSI AUDIO – Google Product Feed</title>
+    <link>https://nissiaudio.com</link>
+    <description>Dữ liệu sản phẩm thiết bị thu âm chính hãng Nissi Audio</description>
 
-    <g:title>
+    <item>
+      <g:id>neumann-tlm49</g:id>
+
+      <g:title>
         Neumann TLM 49 Studio Microphone – Micro thu âm cao cấp phòng thu
-    </g:title>
+      </g:title>
 
-    <g:description>
-        Microphone Neumann TLM 49 – dòng micro condenser cao cấp của Neumann,
-        nổi tiếng với chất âm ấm, trung thực, giàu nhạc tính.
-        Phù hợp thu vocal, ballad, pop, acoustic, phòng thu chuyên nghiệp.
-        Thông tin: CÔNG TY TNHH NISSI AUDIO – Hotline: 0846840840 – 0908401689.
-    </g:description>
+      <g:description>
+Microphone Neumann TLM 49 là dòng micro condenser cao cấp của Neumann, nổi bật với chất âm ấm áp, trung thực và giàu nhạc tính. Thiết kế cổ điển kết hợp công nghệ hiện đại, phù hợp thu vocal, ballad, pop, acoustic và các phòng thu chuyên nghiệp.
+      </g:description>
 
-    <g:link>
+      <g:link>
         https://nissiaudio.com/neumann-tlm-49-microphone
-    </g:link>
+      </g:link>
 
-    <g:image_link>
+      <g:image_link>
         https://nissiaudio.com/upload/product/20190801klm4q2grks43szucsxddlkrc-3637-1116.jpg
-    </g:image_link>
+      </g:image_link>
 
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
 
-    <g:price>43950000 VND</g:price>
+      <g:price>43900000 VND</g:price>
 
-    <g:brand>Neumann</g:brand>
-    <g:mpn>TLM49</g:mpn>
-    <g:google_product_category>
+      <g:brand>NEUMANN</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+
+      <g:google_product_category>
         Electronics &gt; Audio &gt; Microphones
-    </g:google_product_category>
-</item>
+      </g:google_product_category>
+      <g:product_type>
+        Microphone thu âm phòng thu cao cấp
+      </g:product_type>
+
+      <g:shipping>
+        <g:country>VN</g:country>
+        <g:service>Standard</g:service>
