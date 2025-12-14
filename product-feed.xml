@@ -1,23 +1,41 @@
-<item>
-    <g:id>sony-c800g</g:id>
-    <g:title>Sony C-800G Studio Microphone – Huyền thoại phòng thu cao cấp</g:title>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>NISSI AUDIO – Google Product Feed</title>
+    <link>https://nissiaudio.com</link>
+    <description>Dữ liệu sản phẩm thiết bị thu âm chính hãng Nissi Audio</description>
 
-    <g:description>
-Microphone Sony C-800G – dòng micro thu âm cao cấp được các phòng thu hàng đầu thế giới săn lùng nhờ chất âm trong trẻo, sang trọng và chi tiết bậc nhất. Phù hợp thu vocal, ballad, R&amp;B, pop.
-    </g:description>
+    <item>
+      <g:id>sony-c800g</g:id>
 
-    <g:link>https://nissiaudio.com/micro-sony-c800g-nguon-ac-mc800g</g:link>
-    <g:image_link>https://nissiaudio.com/upload/product/80022g-1-1297-7889.jpg</g:image_link>
+      <g:title>Sony C-800G Studio Microphone – Micro thu âm cao cấp phòng thu</g:title>
 
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
+      <g:description>
+Microphone Sony C-800G là dòng micro condenser cao cấp huyền thoại, được các phòng thu chuyên nghiệp trên thế giới tin dùng nhờ chất âm trong trẻo, chi tiết và sang trọng. Phù hợp thu vocal, ballad, pop, R&amp;B, thu âm phòng thu cao cấp.
+      </g:description>
 
-    <g:price>143000000 VND</g:price>
-    <g:sale_price>128900000 VND</g:sale_price>
+      <g:link>https://nissiaudio.com/sony-c800g-studio-microphone-micro-thu-am-cao-cap-phong-thu</g:link>
 
-    <g:brand>SONY</g:brand>
-    <g:identifier_exists>no</g:identifier_exists>
+      <g:image_link>https://nissiaudio.com/upload/product/80022g-1-1297-7889.jpg</g:image_link>
 
-    <g:google_product_category>Electronics &gt; Audio &gt; Microphones</g:google_product_category>
-    <g:product_type>Microphone thu âm phòng thu cao cấp</g:product_type>
-</item>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+
+      <g:price>495000000 VND</g:price>
+      <g:sale_price>361000000 VND</g:sale_price>
+
+      <g:brand>SONY</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+
+      <g:google_product_category>Electronics &gt; Audio &gt; Microphones</g:google_product_category>
+      <g:product_type>Microphone thu âm phòng thu cao cấp</g:product_type>
+
+      <g:shipping>
+        <g:country>VN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>0 VND</g:price>
+      </g:shipping>
+    </item>
+
+  </channel>
+</rss>
