@@ -1,29 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
-<channel>
-<title>NISSI AUDIO – Google Product Feed</title>
-<link>https://nissiaudio.com</link>
-<description>Du lieu san pham thiet bi thu am chinh hang Nissi Audio</description>
+  <channel>
+    <title>NISSI AUDIO – Google Product Feed</title>
+    <link>https://nissiaudio.com</link>
+    <description>Dữ liệu sản phẩm thiết bị thu âm chính hãng Nissi Audio</description>
 
-<item>
-<g:id>neumann-tlm49</g:id>
-<g:title>Neumann TLM 49 Studio Microphone – Micro thu am cao cap phong thu</g:title>
-<g:description>Microphone Neumann TLM 49 la dong micro condenser cao cap cua Neumann, noi bat voi chat am am ap, trung thuc va giau nhac tinh, phu hop thu vocal, ballad, pop, acoustic va phong thu chuyen nghiep.</g:description>
-<g:link>https://nissiaudio.com/neumann-tlm-49-microphone</g:link>
-<g:image_link>https://nissiaudio.com/upload/product/neumann-tlm-49.jpg</g:image_link>
-<g:availability>in stock</g:availability>
-<g:condition>new</g:condition>
-<g:price>43900000 VND</g:price>
-<g:brand>NEUMANN</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
-<g:google_product_category>Electronics &gt; Audio &gt; Microphones</g:google_product_category>
-<g:product_type>Microphone thu am phong thu cao cap</g:product_type>
-<g:shipping>
-<g:country>VN</g:country>
-<g:service>Standard</g:service>
-<g:price>0 VND</g:price>
-</g:shipping>
-</item>
+    <item>
+      <g:id>yamaha-hs8</g:id>
 
-</channel>
+      <g:title>
+        Yamaha HS8 Studio Monitor – Loa kiểm âm phòng thu chuyên nghiệp
+      </g:title>
+
+      <g:description>
+Yamaha HS8 là loa kiểm âm active (powered studio monitor) cao cấp, nổi tiếng với khả năng tái tạo âm thanh trung thực, phẳng và chính xác. Được tin dùng trong các phòng thu chuyên nghiệp và home-studio, HS8 phù hợp cho mixing, mastering, thu vocal và sản xuất âm nhạc đa thể loại.
+      </g:description>
+
+      <g:link>
+        https://nissiaudio.com/yamaha-hs-8
+      </g:link>
+
+      <g:image_link>
+        https://nissiaudio.com/watermark/product/600x600x2/upload/product/loa-kiem-am-yamaha-hs8-thongaudio-hang-chinh-hang-1-3469.jpg?v=9
+      </g:image_link>
+
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+
+      <g:price>19600000 VND</g:price>
+
+      <g:brand>YAMAHA</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+
+      <g:google_product_category>
+        Electronics &gt; Audio &gt; Speakers
+      </g:google_product_category>
+
+      <g:product_type>
+        Loa kiểm âm phòng thu (Studio Monitor)
+      </g:product_type>
+
+      <g:shipping>
+        <g:country>VN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>0 VND</g:price>
+      </g:shipping>
+
+    </item>
+
+  </channel>
 </rss>
