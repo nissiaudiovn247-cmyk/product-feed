@@ -6,38 +6,38 @@
     <description>Dữ liệu sản phẩm thiết bị thu âm chính hãng Nissi Audio</description>
 
     <item>
-      <g:id>steinberg-ur12</g:id>
+      <g:id>genelec-8030-cw</g:id>
 
       <g:title>
-        Steinberg UR12 USB Audio Interface – Soundcard thu âm 2 In 2 Out
+        Genelec 8030 CW – Loa kiểm âm Active Studio Monitor
       </g:title>
 
       <g:description>
-Steinberg UR12 là soundcard thu âm USB 2.0 2 vào 2 ra với mic preamp D-PRE Class-A, hỗ trợ độ phân giải 24-bit/192 kHz, loopback cho livestream, zero-latency monitoring và tương thích Windows, macOS, iOS. Lý tưởng cho thu vocal, nhạc cụ, podcast và sản xuất âm nhạc. 
+Genelec 8030 CW là loa kiểm âm active cao cấp với thiết kế compact, tái tạo âm thanh chính xác, chi tiết và cân bằng. Phù hợp phòng thu chuyên nghiệp và home studio, lý tưởng cho mixing, mastering, sản xuất âm nhạc và kiểm âm chính xác.
       </g:description>
 
       <g:link>
-        https://nissiaudio.com/soundcard-steinberg-ur12
+        https://nissiaudio.com/genelec-8030-cw
       </g:link>
 
       <g:image_link>
-        https://nissiaudio.com/watermark/product/600x600x2/upload/product/steinberg-ur12-2-6724.jpeg?v=9
+        https://nissiaudio.com/watermark/product/600x600x2/upload/product/genelec-8030c-6-9805.jpg?v=9
       </g:image_link>
 
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
 
-      <g:price>3050000 VND</g:price>
+      <g:price>41800000 VND</g:price>
 
-      <g:brand>Steinberg</g:brand>
+      <g:brand>Genelec</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
 
       <g:google_product_category>
-        Electronics &gt; Audio &gt; Audio Interfaces
+        Electronics &gt; Audio &gt; Speakers
       </g:google_product_category>
 
       <g:product_type>
-        Soundcard thu âm USB (Audio Interface)
+        Loa kiểm âm phòng thu (Studio Monitor)
       </g:product_type>
 
       <g:shipping>
