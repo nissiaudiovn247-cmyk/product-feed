@@ -6,28 +6,28 @@
     <description>Dữ liệu sản phẩm thiết bị thu âm chính hãng Nissi Audio</description>
 
     <item>
-      <g:id>steinberg-ur22c</g:id>
+      <g:id>steinberg-ur12</g:id>
 
       <g:title>
-        Steinberg UR22C USB Audio Interface – Soundcard thu âm 2 In 2 Out chuẩn USB-C
+        Steinberg UR12 USB Audio Interface – Soundcard thu âm 2 In 2 Out
       </g:title>
 
       <g:description>
-Steinberg UR22C là soundcard thu âm USB-C 2 vào 2 ra, sử dụng preamp D-PRE chất lượng cao cho âm thanh trung thực, chi tiết và sạch. Hỗ trợ độ phân giải 32-bit / 192kHz, tích hợp DSP FX (REV-X Reverb, Sweet Spot Morphing Channel Strip), tương thích Windows, macOS, iOS. Phù hợp thu vocal, guitar, livestream, home studio và phòng thu chuyên nghiệp.
+Steinberg UR12 là soundcard thu âm USB 2.0 2 vào 2 ra với mic preamp D-PRE Class-A, hỗ trợ độ phân giải 24-bit/192 kHz, loopback cho livestream, zero-latency monitoring và tương thích Windows, macOS, iOS. Lý tưởng cho thu vocal, nhạc cụ, podcast và sản xuất âm nhạc. 
       </g:description>
 
       <g:link>
-        https://nissiaudio.com/soundcard-steinberg-ur22c
+        https://nissiaudio.com/soundcard-steinberg-ur12
       </g:link>
 
       <g:image_link>
-        https://nissiaudio.com/watermark/product/600x600x2/upload/product/untitled-5873.png?v=9
+        https://nissiaudio.com/watermark/product/600x600x2/upload/product/steinberg-ur12-2-6724.jpeg?v=9
       </g:image_link>
 
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
 
-      <g:price>4990000 VND</g:price>
+      <g:price>3050000 VND</g:price>
 
       <g:brand>Steinberg</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
