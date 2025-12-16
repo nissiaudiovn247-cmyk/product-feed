@@ -6,28 +6,28 @@
     <description>Dữ liệu sản phẩm thiết bị thu âm chính hãng Nissi Audio</description>
 
     <item>
-      <g:id>beyerdynamic-dt770-pro-80ohm</g:id>
+      <g:id>beyerdynamic-dt-990-pro-x</g:id>
 
       <g:title>
-        Beyerdynamic DT 770 PRO 80 Ohm – Tai nghe kiểm âm Closed-back Made in Germany
+        Beyerdynamic DT 990 PRO X – Tai nghe kiểm âm Open-back chuyên nghiệp
       </g:title>
 
       <g:description>
-Beyerdynamic DT 770 PRO 80 Ohm là tai nghe kiểm âm closed-back chuyên nghiệp, sản xuất tại Đức, nổi tiếng với độ bền cao và âm thanh chi tiết, cân bằng. Phiên bản 80 Ohm mang lại headroom tốt hơn, phù hợp thu âm, monitoring, mixing và làm việc trong phòng thu chuyên nghiệp.
+Beyerdynamic DT 990 PRO X là tai nghe kiểm âm open-back cao cấp, mang lại không gian âm thanh rộng, chi tiết và tự nhiên. Phiên bản PRO X sử dụng driver STELLAR.45, độ méo thấp, dải động cao, phù hợp mixing, mastering và nghe kiểm âm chính xác trong phòng thu chuyên nghiệp và home studio.
       </g:description>
 
       <g:link>
-        https://nissiaudio.com/tai-nghe-beyerdynamic-dt770-pro-80-ohm-made-in-germany
+        https://nissiaudio.com/beyerdynamic-dt-990-pro-x
       </g:link>
 
       <g:image_link>
-        https://nissiaudio.com/watermark/product/600x600x2/upload/product/beyerdynamicdt77032171-9237.jpg?v=11
+        https://nissiaudio.com/watermark/product/600x600x2/upload/product/990prox-6472.jpg?v=11
       </g:image_link>
 
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
 
-      <g:price>4560000 VND</g:price>
+      <g:price>6140000 VND</g:price>
 
       <g:brand>Beyerdynamic</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
@@ -37,7 +37,7 @@ Beyerdynamic DT 770 PRO 80 Ohm là tai nghe kiểm âm closed-back chuyên nghi�
       </g:google_product_category>
 
       <g:product_type>
-        Tai nghe kiểm âm phòng thu (Studio Headphones)
+        Tai nghe kiểm âm phòng thu Open-back (Studio Headphones)
       </g:product_type>
 
       <g:shipping>
