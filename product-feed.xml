@@ -6,38 +6,38 @@
     <description>Dữ liệu sản phẩm thiết bị thu âm chính hãng Nissi Audio</description>
 
     <item>
-      <g:id>presonus-monitor-station-v2</g:id>
+      <g:id>beyerdynamic-dt-770-pro-x</g:id>
 
       <g:title>
-        PreSonus Monitor Station V2 – Monitor Controller phòng thu chuyên nghiệp
+        Beyerdynamic DT 770 PRO X – Tai nghe kiểm âm Closed-back chuyên nghiệp
       </g:title>
 
       <g:description>
-PreSonus Monitor Station V2 là bộ điều khiển monitor chuyên nghiệp cho phòng thu, cho phép quản lý nhiều nguồn vào và nhiều cặp loa kiểm âm với độ chính xác cao. Thiết bị hỗ trợ talkback, headphone amp độc lập, kiểm soát âm lượng trung tâm và routing linh hoạt, lý tưởng cho mixing, mastering và phòng thu chuyên nghiệp.
+Beyerdynamic DT 770 PRO X là tai nghe kiểm âm closed-back cao cấp, mang lại âm thanh chi tiết, cân bằng và chính xác. Thiết kế kín giúp cách âm tốt, phù hợp thu âm, mixing, monitoring và làm việc trong phòng thu chuyên nghiệp lẫn home studio. Phiên bản PRO X sử dụng driver STELLAR.45 cho độ động cao và độ méo thấp.
       </g:description>
 
       <g:link>
-        https://nissiaudio.com/presonus-monitor-station-v2-monitor-controller
+        https://nissiaudio.com/tai-nghe-kiem-am-beyerdynamic-dt-770-pro-x
       </g:link>
 
       <g:image_link>
-        https://nissiaudio.com/watermark/product/600x600x2/upload/product/51pl2-fvfel-2096.jpg?v=11
+        https://nissiaudio.com/watermark/product/600x600x2/upload/product/dt-770-pro-x-5902.jpg?v=11
       </g:image_link>
 
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
 
-      <g:price>9800000 VND</g:price>
+      <g:price>6100000 VND</g:price>
 
-      <g:brand>PreSonus</g:brand>
+      <g:brand>Beyerdynamic</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
 
       <g:google_product_category>
-        Electronics &gt; Audio &gt; Audio Mixers
+        Electronics &gt; Audio &gt; Headphones
       </g:google_product_category>
 
       <g:product_type>
-        Monitor Controller phòng thu
+        Tai nghe kiểm âm phòng thu (Studio Headphones)
       </g:product_type>
 
       <g:shipping>
