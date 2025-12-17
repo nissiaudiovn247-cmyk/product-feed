@@ -6,28 +6,28 @@
     <description>Dữ liệu sản phẩm thiết bị thu âm chính hãng Nissi Audio</description>
 
     <item>
-      <g:id>warm-audio-wa-47-tube-condenser-microphone</g:id>
+      <g:id>warm-audio-wa-87-condenser-microphone</g:id>
 
       <g:title>
-        Warm Audio WA-47 Tube Condenser Microphone – Micro ống phòng thu
+        Warm Audio WA-87 Condenser Microphone – Micro FET phòng thu
       </g:title>
 
       <g:description>
-Warm Audio WA-47 Tube Condenser là microphone tube condenser mô phỏng huyền thoại U47, với ống chân không và capsule màng lớn cho âm thanh ấm, chi tiết và giàu nhạc tính. Micro phù hợp thu vocal, nhạc cụ, podcast và các ứng dụng phòng thu chuyên nghiệp. :contentReference[oaicite:0]{index=0}
+Warm Audio WA-87 là microphone large-diaphragm condenser phong cách “87-style”, tái tạo âm thanh cổ điển, cân bằng, chi tiết và linh hoạt cho thu vocal, nhạc cụ và các ứng dụng phòng thu chuyên nghiệp. WA-87 sử dụng linh kiện chất lượng cao và biến áp CineMag USA cho độ trung thực vượt trội. :contentReference[oaicite:0]{index=0}
       </g:description>
 
       <g:link>
-        https://nissiaudio.com/warm-audio-wa-47-tube-condenser-microphone
+        https://nissiaudio.com/warm-audio-wa-87-condenser-microphone
       </g:link>
 
       <g:image_link>
-        https://nissiaudio.com/watermark/product/600x600x2/upload/product/wa-47-tube-condenser.jpg
+        https://nissiaudio.com/watermark/product/600x600x2/upload/product/wa-87-condenser.jpg
       </g:image_link>
 
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
 
-      <g:price>25650000 VND</g:price>
+      <g:price>17480000 VND</g:price>
 
       <g:brand>Warm Audio</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
@@ -37,7 +37,7 @@ Warm Audio WA-47 Tube Condenser là microphone tube condenser mô phỏng huyề
       </g:google_product_category>
 
       <g:product_type>
-        Microphone condenser tube phòng thu
+        Microphone condenser phòng thu
       </g:product_type>
 
       <g:shipping>
