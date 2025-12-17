@@ -6,28 +6,28 @@
     <description>Dữ liệu sản phẩm thiết bị thu âm chính hãng Nissi Audio</description>
 
     <item>
-      <g:id>warm-audio-wa-87-condenser-microphone</g:id>
+      <g:id>warm-audio-wa-87-r2-condenser-microphone-nickel</g:id>
 
       <g:title>
-        Warm Audio WA-87 Condenser Microphone – Micro FET phòng thu
+        Warm Audio WA-87 R2 Condenser Microphone (Nickel) – Micro đa mẫu phòng thu
       </g:title>
 
       <g:description>
-Warm Audio WA-87 là microphone large-diaphragm condenser phong cách “87-style”, tái tạo âm thanh cổ điển, cân bằng, chi tiết và linh hoạt cho thu vocal, nhạc cụ và các ứng dụng phòng thu chuyên nghiệp. WA-87 sử dụng linh kiện chất lượng cao và biến áp CineMag USA cho độ trung thực vượt trội. :contentReference[oaicite:0]{index=0}
+Warm Audio WA-87 R2 là microphone large-diaphragm condenser phong cách 87-style với 3 mẫu cực (cardioid, omni, figure-8), -10 dB pad và bộ lọc high-pass 80 Hz cho âm thanh chi tiết, ấm và linh hoạt thu vocal & nhạc cụ. Sản phẩm sử dụng linh kiện cao cấp và biến áp CineMag USA để tái tạo chất âm vintage nổi tiếng. :contentReference[oaicite:0]{index=0}
       </g:description>
 
       <g:link>
-        https://nissiaudio.com/warm-audio-wa-87-condenser-microphone
+        https://nissiaudio.com/warm-audio-wa-87-r2-condenser-microphone-nickel
       </g:link>
 
       <g:image_link>
-        https://nissiaudio.com/watermark/product/600x600x2/upload/product/2023-11-28142408-4650-2684.png?v=11
+        https://nissiaudio.com/watermark/product/600x600x2/upload/product/warm-wa-87-r2-microphone-1-8906.jpg?v=11
       </g:image_link>
 
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
 
-      <g:price>17480000 VND</g:price>
+      <g:price>17765000 VND</g:price>
 
       <g:brand>Warm Audio</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
@@ -50,4 +50,3 @@ Warm Audio WA-87 là microphone large-diaphragm condenser phong cách “87-styl
 
   </channel>
 </rss>
-
