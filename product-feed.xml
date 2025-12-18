@@ -1,32 +1,38 @@
-<item>
- 
-  <g:id>yamaha-hs8-ps7</g:id>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>NISSI AUDIO – Google Product Feed</title>
+    <link>https://nissiaudio.com</link>
+    <description>Dữ liệu sản phẩm thiết bị thu âm chính hãng Nissi Audio</description>
 
-  <g:title>Yamaha HS8 Studio Monitor – Loa kiểm âm phòng thu chuyên nghiệp</g:title>
+    <item>
+      <g:id>yamaha-hs8-ps7</g:id>
 
-  <g:description>Yamaha HS8 là loa kiểm âm active phòng thu với woofer 8 inch và tweeter 1 inch, mang lại âm thanh trung thực, cân bằng và chính xác. HS8 được sử dụng rộng rãi trong các phòng thu chuyên nghiệp và home studio, phù hợp cho mixing, mastering và sản xuất âm nhạc, giúp kỹ sư âm thanh đưa ra quyết định chính xác khi làm việc với âm thanh.</g:description>
+      <g:title>Yamaha HS8 Studio Monitor – Loa kiểm âm phòng thu chuyên nghiệp</g:title>
 
-  <g:link>https://nissiaudio.com/yamaha-hs8-loa-kiem-am-studio-monito</g:link>
+      <g:description>Yamaha HS8 là loa kiểm âm active phòng thu với woofer 8 inch và tweeter 1 inch, mang lại âm thanh trung thực, cân bằng và chính xác. HS8 được sử dụng rộng rãi trong các phòng thu chuyên nghiệp và home studio, phù hợp cho mixing, mastering và sản xuất âm nhạc, giúp kỹ sư âm thanh đưa ra quyết định chính xác khi làm việc với âm thanh.</g:description>
 
-  <g:image_link>https://nissiaudio.com/watermark/product/600x600x2/upload/product/yamaha-hs8-1.jpg</g:image_link>
+      <g:link>https://nissiaudio.com/yamaha-hs8-loa-kiem-am-studio-monito</g:link>
 
-  <g:availability>in stock</g:availability>
-  <g:condition>new</g:condition>
-  <g:price>19600000 VND</g:price>
+      <g:image_link>https://nissiaudio.com/watermark/product/600x600x2/upload/product/yamaha-hs8-1.jpg</g:image_link>
 
-  <g:brand>Yamaha</g:brand>
-  <g:identifier_exists>no</g:identifier_exists>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:price>19600000 VND</g:price>
 
-  <g:google_product_category>Electronics &gt; Audio &gt; Speakers &gt; Studio Monitors</g:google_product_category>
+      <g:brand>Yamaha</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
 
-  <g:product_type>Loa kiểm âm active phòng thu</g:product_type>
+      <g:google_product_category>Electronics &gt; Audio &gt; Speakers &gt; Studio Monitors</g:google_product_category>
 
-  <g:shipping>
-    <g:country>VN</g:country>
-    <g:service>Standard</g:service>
-    <g:price>0 VND</g:price>
-  </g:shipping>
-</item>
+      <g:product_type>Loa kiểm âm active phòng thu</g:product_type>
 
-</channel>
+      <g:shipping>
+        <g:country>VN</g:country>
+        <g:service>Standard</g:service>
+        <g:price>0 VND</g:price>
+      </g:shipping>
+    </item>
+
+  </channel>
 </rss>
