@@ -8,7 +8,7 @@
 
   <g:link>https://nissiaudio.com/yamaha-hs8-loa-kiem-am-studio-monito</g:link>
 
-  <g:image_link>https://nissiaudio.com/watermark/product/600x600x2/upload/product/loa-kiem-am-yamaha-hs8-thongaudio-hang-chinh-hang-1-3469.jpg?v=11</g:image_link>
+  <g:image_link>https://nissiaudio.com/watermark/product/600x600x2/upload/product/yamaha-hs8-1.jpg</g:image_link>
 
   <g:availability>in stock</g:availability>
   <g:condition>new</g:condition>
@@ -28,4 +28,5 @@
   </g:shipping>
 </item>
 
-
+</channel>
+</rss>
