@@ -6,7 +6,8 @@
     <description>Dữ liệu sản phẩm thiết bị thu âm chính hãng Nissi Audio</description>
 
     <item>
-      <g:id>warm-audio-wa-67-tube-condenser-microphone</g:id>
+      <!-- ĐỔI g:id ĐỂ KHÔNG BỊ TRÙNG NGUỒN -->
+      <g:id>warm-audio-wa-67-ps7</g:id>
 
       <g:title>Warm Audio WA-67 Tube Condenser Microphone – Micro ống thu âm cao cấp</g:title>
 
@@ -36,3 +37,4 @@
 
   </channel>
 </rss>
+
