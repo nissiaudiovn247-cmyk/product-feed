@@ -6,30 +6,30 @@
     <description>Dữ liệu sản phẩm thiết bị thu âm chính hãng Nissi Audio</description>
 
     <item>
-      <g:id>auteurquad-preamp</g:id>
+      <g:id>wa-mpx-preamp</g:id>
 
       <g:title>
-        Black Lion Audio AuteurQuad – Quad Channel Microphone Preamp
+        Warm Audio WA-MPX 1-Channel Tube Mic/Line/Instrument Preamp
       </g:title>
 
       <g:description>
-Black Lion Audio AuteurQuad là preamp microphone 4 kênh chất lượng cao với mạch “Chicago-style”, cung cấp headroom rộng và âm thanh analog giàu nhạc tính. Phù hợp cho phòng thu chuyên nghiệp, xử lý nhiều nguồn vocal và nhạc cụ cùng lúc với độ chi tiết cao.
+Warm Audio WA-MPX là preamp ống (tube) 1 kênh linh hoạt, xử lý tín hiệu mic, line và instrument với độ chi tiết cao và màu âm ấm tự nhiên. Phù hợp cho vocal, guitar, bass và các tín hiệu phòng thu chuyên nghiệp, mang đến sự giàu nhạc tính với chất âm analog cổ điển.
       </g:description>
 
       <g:link>
-        https://nissiaudio.com/black-lion-auteurquad-preamp
+        https://nissiaudio.com/warm-audio-wa-mpx-1-channel-tube-miclineinstrument-preamp
       </g:link>
 
       <g:image_link>
-        https://nissiaudio.com/watermark/product/600x600x2/upload/product/black-lion-audio-auteur-quad-photo3-5712.jpg?v=11
+        https://nissiaudio.com/watermark/product/600x600x2/upload/product/18262673800-7755.jpg?v=11
       </g:image_link>
 
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
 
-      <g:price>19975000 VND</g:price>
+      <g:price>19000000 VND</g:price>
 
-      <g:brand>Black Lion Audio</g:brand>
+      <g:brand>Warm Audio</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
 
       <g:google_product_category>
@@ -37,7 +37,7 @@ Black Lion Audio AuteurQuad là preamp microphone 4 kênh chất lượng cao v�
       </g:google_product_category>
 
       <g:product_type>
-        Preamp microphone 4 kênh
+        Preamp tube 1 kênh (mic/line/instrument)
       </g:product_type>
 
       <g:shipping>
