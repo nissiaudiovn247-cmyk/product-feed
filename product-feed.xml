@@ -6,14 +6,14 @@
     <description>Dữ liệu sản phẩm thiết bị thu âm chính hãng Nissi Audio</description>
 
     <item>
-      <g:id>black-lion-audio-auteur-dt-single-channel-desktop-microphone-preamp</g:id>
+      <g:id>auteur-dt</g:id>
 
       <g:title>
-        Black Lion Audio Auteur DT Single-Channel Desktop Microphone Preamp
+        Black Lion Audio Auteur DT – Single Channel Desktop Microphone Preamp
       </g:title>
 
       <g:description>
-Black Lion Audio Auteur DT là preamp/mic preamp đơn kênh thiết kế để bàn với mạch “Chicago-style” giúp tăng 60 dB gain, xử lý mic và DI instrument tín hiệu rõ ràng với màu analog đẹp, phù hợp thu vocal, guitar, bass và nhiều ứng dụng phòng thu. Thiết kế nhỏ gọn nhưng chất lượng cao, mang lại âm thanh chi tiết và giàu nhạc tính. :contentReference[oaicite:1]{index=1}
+Black Lion Audio Auteur DT là microphone preamp đơn kênh thiết kế để bàn, sử dụng mạch Chicago-style nổi tiếng của Black Lion Audio, mang lại âm thanh analog rõ ràng, chi tiết và giàu nhạc tính. Auteur DT phù hợp thu vocal, guitar, bass và các ứng dụng phòng thu chuyên nghiệp.
       </g:description>
 
       <g:link>
@@ -21,7 +21,7 @@ Black Lion Audio Auteur DT là preamp/mic preamp đơn kênh thiết kế để 
       </g:link>
 
       <g:image_link>
-        https://nissiaudio.com/watermark/product/600x600x2/upload/product/2025-06-03150504-4220.png?v=11
+        https://nissiaudio.com/watermark/product/600x600x2/upload/product/black-lion-audio-auteur-dt.jpg
       </g:image_link>
 
       <g:availability>in stock</g:availability>
@@ -33,11 +33,11 @@ Black Lion Audio Auteur DT là preamp/mic preamp đơn kênh thiết kế để 
       <g:identifier_exists>no</g:identifier_exists>
 
       <g:google_product_category>
-        Electronics &gt; Audio &gt; Audio Interfaces &gt; Microphone Preamps
+        Electronics &gt; Audio &gt; Audio Components &gt; Microphone Preamps
       </g:google_product_category>
 
       <g:product_type>
-        Preamp microphone để bàn
+        Microphone Preamp để bàn
       </g:product_type>
 
       <g:shipping>
