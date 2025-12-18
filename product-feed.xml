@@ -1,40 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
-  <channel>
-    <title>NISSI AUDIO – Google Product Feed</title>
-    <link>https://nissiaudio.com</link>
-    <description>Dữ liệu sản phẩm thiết bị thu âm chính hãng Nissi Audio</description>
+<item>
+ 
+  <g:id>yamaha-hs8-ps7</g:id>
 
-    <item>
-      <!-- ĐỔI g:id ĐỂ KHÔNG BỊ TRÙNG NGUỒN -->
-      <g:id>warm-audio-wa-67-ps7</g:id>
+  <g:title>Yamaha HS8 Studio Monitor – Loa kiểm âm phòng thu chuyên nghiệp</g:title>
 
-      <g:title>Warm Audio WA-67 Tube Condenser Microphone – Micro ống thu âm cao cấp</g:title>
+  <g:description>Yamaha HS8 là loa kiểm âm active phòng thu với woofer 8 inch và tweeter 1 inch, mang lại âm thanh trung thực, cân bằng và chính xác. HS8 được sử dụng rộng rãi trong các phòng thu chuyên nghiệp và home studio, phù hợp cho mixing, mastering và sản xuất âm nhạc, giúp kỹ sư âm thanh đưa ra quyết định chính xác khi làm việc với âm thanh.</g:description>
 
-      <g:description>Warm Audio WA-67 Tube Condenser Microphone là phiên bản tái tạo cổ điển của micro vintage 67, sử dụng ống chân không và capsule màng lớn cho chất âm ấm, mượt mà và dày dặn. Micro phù hợp thu vocal, nhạc cụ acoustic và phòng thu chuyên nghiệp, mang đến độ chi tiết và nhạc tính cao. Sản phẩm là lựa chọn tuyệt vời cho các kỹ sư âm thanh và nghệ sĩ theo đuổi âm thanh cổ điển.</g:description>
+  <g:link>https://nissiaudio.com/yamaha-hs8-loa-kiem-am-studio-monito</g:link>
 
-      <g:link>https://nissiaudio.com/warm-audio-wa-67-tube-condenser-microphone</g:link>
+  <g:image_link>https://nissiaudio.com/watermark/product/600x600x2/upload/product/yamaha-hs8-1.jpg</g:image_link>
 
-      <g:image_link>https://nissiaudio.com/watermark/product/600x600x2/upload/product/warm-audio-wa-67-tube-condenser-microphone-1-1781.jpg?v=11</g:image_link>
+  <g:availability>in stock</g:availability>
+  <g:condition>new</g:condition>
+  <g:price>19600000 VND</g:price>
 
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>25650000 VND</g:price>
+  <g:brand>Yamaha</g:brand>
+  <g:identifier_exists>no</g:identifier_exists>
 
-      <g:brand>Warm Audio</g:brand>
-      <g:identifier_exists>no</g:identifier_exists>
+  <g:google_product_category>Electronics &gt; Audio &gt; Speakers &gt; Studio Monitors</g:google_product_category>
 
-      <g:google_product_category>Electronics &gt; Audio &gt; Microphones</g:google_product_category>
+  <g:product_type>Loa kiểm âm active phòng thu</g:product_type>
 
-      <g:product_type>Microphone condenser tube phòng thu</g:product_type>
-
-      <g:shipping>
-        <g:country>VN</g:country>
-        <g:service>Standard</g:service>
-        <g:price>0 VND</g:price>
-      </g:shipping>
-    </item>
-
-  </channel>
-</rss>
+  <g:shipping>
+    <g:country>VN</g:country>
+    <g:service>Standard</g:service>
+    <g:price>0 VND</g:price>
+  </g:shipping>
+</item>
 
